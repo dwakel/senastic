@@ -1,5 +1,5 @@
 [build]
-base = "senastic/"
+base = "/"
 publish = "senastic/"
 command = "npm build"
 
