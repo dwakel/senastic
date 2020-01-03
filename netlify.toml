@@ -1,6 +1,6 @@
 [build]
-base = "/senastic/"
-publish = "/senastic/senastic/"
+base = "senastic/"
+publish = "senastic/"
 command = "npm build"
 
 [[redirects]]
